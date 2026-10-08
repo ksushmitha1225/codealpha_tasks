@@ -1,0 +1,33 @@
+
+CODEALPHA MACHINE LEARNING INTERNSHIP
+
+Project: Handwritten Character Recognition
+
+Objective:
+Recognize handwritten digits using a Convolutional Neural Network (CNN).
+
+Dataset:
+MNIST Handwritten Digit Dataset
+
+Input:
+28 x 28 grayscale handwritten digit images.
+
+Technique:
+Convolutional Neural Network (CNN)
+
+Evaluation:
+Accuracy
+Precision
+Recall
+F1-Score
+Confusion Matrix
+
+Tools:
+Python
+TensorFlow
+Keras
+NumPy
+Pandas
+Matplotlib
+Scikit-learn
+Google Colab
